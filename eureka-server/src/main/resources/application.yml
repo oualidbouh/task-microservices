@@ -1,0 +1,14 @@
+server.port: 8761
+
+eureka.client:
+  register-with-eureka: false
+  fetch-registry: false
+
+spring:
+  cloud:
+    compatibility-verifier:
+      enabled: false
+
+logging.level.com.netflix:
+  eureka: DEBUG
+  discovery: DEBUG
