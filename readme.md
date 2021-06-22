@@ -1,4 +1,4 @@
-#Simple Microservices App
+### Simple Microservices App
 
 This app uses Spring Boot and Spring Cloud stack (Gateway, Feign, Eureka, Config Server, AMQP).
 
